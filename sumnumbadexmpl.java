@@ -1,5 +1,5 @@
-public class SumNumBadExmpl.java{
-	public static void main (String[] arg)
+public class sumnumbadexmpl {
+	public static void main (String[] args)
 			{
 				System.out.println("hello World");
 			}
